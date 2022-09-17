@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\bin\Debug\net5.0\ValueAndReferanceTypes.exe
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\bin\Debug\net5.0\ValueAndReferanceTypes.deps.json
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\bin\Debug\net5.0\ValueAndReferanceTypes.runtimeconfig.json
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\bin\Debug\net5.0\ValueAndReferanceTypes.runtimeconfig.dev.json
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\bin\Debug\net5.0\ValueAndReferanceTypes.dll
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\bin\Debug\net5.0\ValueAndReferanceTypes.pdb
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\obj\Debug\net5.0\ValueAndReferanceTypes.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\obj\Debug\net5.0\ValueAndReferanceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\obj\Debug\net5.0\ValueAndReferanceTypes.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\obj\Debug\net5.0\ValueAndReferanceTypes.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\obj\Debug\net5.0\ValueAndReferanceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\obj\Debug\net5.0\ValueAndReferanceTypes.dll
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\obj\Debug\net5.0\refint\ValueAndReferanceTypes.dll
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\obj\Debug\net5.0\ValueAndReferanceTypes.pdb
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\obj\Debug\net5.0\ValueAndReferanceTypes.genruntimeconfig.cache
+C:\Users\Agamuradov\source\repos\Metodlar\ValueAndReferanceTypes\obj\Debug\net5.0\ref\ValueAndReferanceTypes.dll

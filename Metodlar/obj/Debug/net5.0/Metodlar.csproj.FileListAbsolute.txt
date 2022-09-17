@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\obj\Debug\net5.0\Metodlar.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\obj\Debug\net5.0\Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\obj\Debug\net5.0\Metodlar.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\obj\Debug\net5.0\Metodlar.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\obj\Debug\net5.0\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\bin\Debug\net5.0\Metodlar.exe
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\bin\Debug\net5.0\Metodlar.deps.json
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\bin\Debug\net5.0\Metodlar.runtimeconfig.json
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\bin\Debug\net5.0\Metodlar.runtimeconfig.dev.json
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\bin\Debug\net5.0\Metodlar.dll
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\bin\Debug\net5.0\Metodlar.pdb
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\obj\Debug\net5.0\Metodlar.dll
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\obj\Debug\net5.0\refint\Metodlar.dll
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\obj\Debug\net5.0\Metodlar.pdb
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\obj\Debug\net5.0\Metodlar.genruntimeconfig.cache
+C:\Users\Agamuradov\source\repos\Metodlar\Metodlar\obj\Debug\net5.0\ref\Metodlar.dll
